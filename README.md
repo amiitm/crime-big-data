@@ -10,12 +10,12 @@ We will use Map Reduce algorithm to bring out use information from the data.
 
 Crime types with the highest rates
 
-![Alt text](output\images\crimeTypesWithHighestRates.png?raw=true)
+![Graph of Crime types with the highest rates](/output/images/crimeTypesWithHighestRates.png?raw=true)
 
 Number of crime at the location with highest crime rate
 
-![Alt text](output\images\numberOfCrimeAtLocationWithHighestCrimeRate.png?raw=true)
+![Graph of Number of crime at the location with highest crime rate](/output/images/numberOfCrimeAtLocationWithHighestCrimeRate.png?raw=true)
 
 Number of the Most Occurred Crime and its Type
 
-![Alt text](output\images\numberOfMostOccurredCrimeAndItsType.png?raw=true)
+![Graph of Number of the Most Occurred Crime and its Type](/output/images/numberOfMostOccurredCrimeAndItsType.png?raw=true)
